@@ -1,8 +1,6 @@
 /*
  * 			AUTHOR: Todd Twiggs
  * 			DATE:   September 26, 2015
- * 
- * 			This is the DoublyLinkedList class for Quiz 2
  */
 
 import javax.swing.JOptionPane;
